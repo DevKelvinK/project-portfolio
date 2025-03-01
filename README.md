@@ -1,6 +1,6 @@
-# Projeto Portfolio
+# Projeto Portfólio
 
-Bem-vindo ao repositório de um projeto de portfolio! Este projeto é um portfólio desenvolvido durante o curso de PHP.
+Bem-vindo ao repositório de um projeto de portfólio! Este projeto é um portfólio desenvolvido durante o curso de PHP.
 
 ## Descrição
 
